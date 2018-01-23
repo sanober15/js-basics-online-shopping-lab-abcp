@@ -21,8 +21,14 @@ function addToCart(item) {
  return cart;
 }
 
+function viewCart(){
+
+}
+
+/*
 function viewCart() {
   // write your code here
+  
   getCart();
   let items = [];
   const l = cart.length;
@@ -48,6 +54,8 @@ switch (items.length) {
 return console.log(`In your cart, you have ${items}.`);
 
 }
+
+*/
 
 
 function total() {
