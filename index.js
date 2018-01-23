@@ -28,7 +28,7 @@ function viewCart(){
 
 function viewCart() {
   // write your code here
-  
+
   getCart();
   let items = [];
   const l = cart.length;
