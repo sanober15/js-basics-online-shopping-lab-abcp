@@ -25,7 +25,7 @@ function viewCart(){
 
 }
 
-/*
+
 function viewCart() {
   // write your code here
   
@@ -55,7 +55,7 @@ return console.log(`In your cart, you have ${items}.`);
 
 }
 
-*/
+
 
 
 function total() {
